@@ -13,3 +13,15 @@ This is an advanced Python ransomware developed for educational purposes. It dem
 - Recursive encryption of files in a specified directory.
 - Ransom note generation with customizable message.
 - Additional actions or malicious activities can be added to the code.
+
+## Run
+
+1. Customize the ransom note message in the `ransom_note` function.
+
+2. Run the ransomware code:
+
+**Caution: Do not run this code on your own machine or on any system without proper authorization. Doing so may lead to severe legal consequences.**
+
+## Contributing
+
+Contributions are not welcome for this project, as it promotes illegal and unethical activities. Please use your skills and knowledge responsibly and contribute positively to the cybersecurity community.
